@@ -7719,7 +7719,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #c2a2b2 !important;
+  color: #b5838d !important;
 }
 
 .text-secondary {
@@ -7810,7 +7810,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #c2a2b2 !important;
+  background-color: #6d6875 !important;
 }
 
 .bg-secondary {
